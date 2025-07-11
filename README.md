@@ -2,7 +2,8 @@
 Enumerated Arrays in Zig, for utility purposes
 
 Usage
-```
+
+zig```
 const std = @import("std");
 const e = @import("enum_array.zig");
 
